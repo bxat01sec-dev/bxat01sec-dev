@@ -1,5 +1,5 @@
 <div>
-  <img style="width: 100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&reversal=false&fontSize=70&fontColor=#0047AB&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+  <img style="width: 100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&reversal=false&fontSize=70&fontColor=0047AB&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
 
 ###
@@ -54,32 +54,16 @@
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=bxat01sec-dev&show_icons=true&theme=cobalt&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=0047AB&icon_color=0047AB" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bxat01sec-dev&layout=compact&theme=cobalt&hide_border=true&bg_color=0d1117&title_color=0047AB" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=bxat01sec-dev&theme=cobalt&hide_border=true&background=0d1117&stroke=0047AB&ring=0047AB&fire=0047AB&currStreakNum=0047AB&sideNums=0047AB&currStreakLabel=0047AB&sideLabels=0047AB&dates=0047AB" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bxat01sec-dev&show_icons=true&theme=cobalt&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=0047AB&icon_color=0047AB" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bxat01sec-dev&layout=compact&theme=cobalt&hide_border=true&bg_color=0d1117&title_color=0047AB" height="180" />
 </div>
 
 ###
 
-<h2 align="center">🚀 Featured Projects</h2>
+<h2 align="center">🔥 GitHub Streak Stats</h2>
 
 <div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">Full-Stack Applications</h3>
-        <div align="center">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=bxat01sec-dev&repo=your-repo-name&theme=cobalt&bg_color=0d1117&title_color=0047AB" />
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">Database Systems</h3>
-        <div align="center">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=bxat01sec-dev&repo=your-postgres-project&theme=cobalt&bg_color=0d1117&title_color=0047AB" />
-        </div>
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bxat01sec-dev&theme=cobalt&hide_border=true&background=0d1117&stroke=0047AB&ring=0047AB&fire=0047AB&currStreakNum=0047AB&sideNums=0047AB&currStreakLabel=0047AB&sideLabels=0047AB&dates=0047AB" height="180" />
 </div>
 
 ###
@@ -88,6 +72,28 @@
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=bxat01sec-dev&theme=algolia&no-frame=true&no-bg=true&row=2&column=4&margin-w=15&margin-h=15" />
+</div>
+
+###
+
+<h2 align="center">📈 Contribution Graph</h2>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bxat01sec-dev&theme=cobalt&hide_border=true&bg_color=0d1117&color=0047AB&line=0047AB&point=0047AB" />
+</div>
+
+###
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+<div align="center">
+  <!-- مشاريعك ستظهر هنا عندما تضيفها إلى GitHub -->
+  <p>🚧 Working on amazing projects! Stay tuned...</p>
+  <!-- يمكنك إضافة مشاريعك لاحقا مثل:
+  <a href="https://github.com/bxat01sec-dev/project1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bxat01sec-dev&repo=project1&theme=cobalt&bg_color=0d1117&title_color=0047AB" />
+  </a>
+  -->
 </div>
 
 ###
@@ -104,20 +110,12 @@
   <a href="mailto:abdkadrxt100@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" />
   </a>
-  <a href="https://www.linkedin.com/in/your-profile" target="_blank">
+  <a href="https://www.linkedin.com" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40" />
   </a>
-  <a href="https://discord.com/users/your-id" target="_blank">
+  <a href="https://discord.com" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="40" />
   </a>
-</div>
-
-###
-
-<h2 align="center">📈 Contribution Graph</h2>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bxat01sec-dev&theme=cobalt&hide_border=true&bg_color=0d1117&color=0047AB&line=0047AB&point=0047AB" />
 </div>
 
 ###
@@ -126,7 +124,7 @@
   <h3>⚡ Fun Fact</h3>
   <p>I can transform creative ideas into functional code and stunning visuals! 🎨➡️💻</p>
   
-  <img src="https://count.getloli.com/@bxat01sec-dev?theme=booru-helltaker&padding=10&scale=1.2&align=center&pixelated=1&darkmode=auto&reload=1"  />
+  <img src="https://count.getloli.com/@bxat01sec-dev?theme=booru-helltaker&padding=10&scale=1.2&align=center&pixelated=1&darkmode=auto"  />
   
   <p>🎯 <strong>Currently Working On:</strong> Advanced PostgreSQL database systems & Unreal Engine projects</p>
   <p>🌱 <strong>Learning:</strong> Cloud Architecture & Advanced Game Development</p>
@@ -135,5 +133,5 @@
 ###
 
 <div>
-  <img style="width: 100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&reversal=true&fontSize=50&fontColor=#0047AB&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+  <img style="width: 100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&reversal=true&fontSize=50&fontColor=0047AB&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
