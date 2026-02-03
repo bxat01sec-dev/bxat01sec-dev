@@ -87,9 +87,9 @@
 <h2 align="center">🚀 Featured Projects</h2>
 
 <div align="center">
-  <!-- مشاريعك ستظهر هنا عندما تضيفها إلى GitHub -->
+ >
   <p>🚧 Working on amazing projects! Stay tuned...</p>
-  <!-- يمكنك إضافة مشاريعك لاحقا مثل:
+ 
   <a href="https://github.com/bxat01sec-dev/project1">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=bxat01sec-dev&repo=project1&theme=cobalt&bg_color=0d1117&title_color=0047AB" />
   </a>
